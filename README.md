@@ -131,3 +131,9 @@ Now that you're finished with your analysis in Google Colab, you need to get you
 - Push the added files to GitHub.
 
 **************************************************
+
+### Citations/References
+
+IRS. Tax Exempt Organization Search Bulk Data Downloads. <https://www.irs.gov/charities-non-profits/tax-exempt-organization-search-bulk-data-downloads>.
+
+Code for identifying value counts greater than a threshold provided by Sarah Amundrud 01Aug2023 at <https://stackoverflow.com/questions/67006008/pandas-how-to-get-the-value-counts-above-a-threshold>.
