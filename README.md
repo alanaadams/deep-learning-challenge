@@ -42,10 +42,9 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 ### Optimize the Model (20 points)
 - Repeat the preprocessing steps in a new Jupyter notebook (4 points)
 - Create a new neural network model, implementing at least 3 model optimization methods (15 points)
-- Save and export your results to an HDF5 file named 
+- Save and export your results to an HDF5 file named AlphabetSoupCharity_Optimization.h5 (1 point)
 
-### AlphabetSoupCharity_Optimization.h5 (1 point)
-- Write a Report on the Neural Network Model (30 points)
+### Write a Report on the Neural Network Model (30 points)
 - Write an analysis that includes a title and multiple sections, labeled with headers and subheaders (4 points)
 - Format images in the report so that they display correction (2)
 - Explain the purpose of the analysis (4)
@@ -139,3 +138,5 @@ IRS. Tax Exempt Organization Search Bulk Data Downloads. <https://www.irs.gov/ch
 Amundrud, S. (2023, August 1). Code for identifying value counts greater than a threshold. Stack Overflow. https://stackoverflow.com/questions/67006008/pandas-how-to-get-the-value-counts-above-a-threshold
 
 OpenAI. (2021). "Export neural network model to HDF5 file." ChatGPT. https://www.openai.com
+
+Keras. (2015). ModelCheckpoint. Keras API documentation. https://keras.io/api/callbacks/model_checkpoint/
