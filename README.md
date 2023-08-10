@@ -18,7 +18,39 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 - ASK_AMT—Funding amount requested
 - IS_SUCCESSFUL—Was the money used effectively
 
-**************************************************
+****************************************************************************************************
+
+## Report on the Neural Network Model
+### Overview of the Analysis
+
+In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
+
+* Explain the purpose of the analysis.
+* Explain what financial information the data was on, and what you needed to predict.
+* Provide basic information about the variables you were trying to predict.
+* Describe the stages of the machine learning process you went through as part of this analysis.
+* Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
+
+### Results
+
+* Using bulleted lists and images to support your answers, address the following questions:
+    * Data Preprocessing
+        * What variable(s) are the target(s) for your model?
+        * What variable(s) are the features for your model?
+        * What variable(s) should be removed from the input data because they are neither targets nor features?
+    * Compiling, Training, and Evaluating the Model
+        * How many neurons, layers, and activation functions did you select for your neural network model, and why?
+        * Were you able to achieve the target model performance?
+        * What steps did you take in your attempts to increase model performance?
+
+
+### Summary
+
+Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. 
+Summarize the overall results of the deep learning model. 
+Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+
+****************************************************************************************************
 
 ## Requirements
 ### Preprocess the Data (30 points)
@@ -52,7 +84,7 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 - Summarize the overall results of your model (4)
 - Describe how you could use a different model to solve the same problem, and explain why you would use that model (6)
 
-**************************************************
+****************************************************************************************************
 
 ## Instructions
 ### Step 1: Preprocess the Data
@@ -129,7 +161,7 @@ Now that you're finished with your analysis in Google Colab, you need to get you
 - Move them into your Deep Learning Challenge directory in your local repository.
 - Push the added files to GitHub.
 
-**************************************************
+****************************************************************************************************
 
 ### Citations/References
 
