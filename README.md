@@ -136,4 +136,6 @@ Now that you're finished with your analysis in Google Colab, you need to get you
 
 IRS. Tax Exempt Organization Search Bulk Data Downloads. <https://www.irs.gov/charities-non-profits/tax-exempt-organization-search-bulk-data-downloads>.
 
-Code for identifying value counts greater than a threshold provided by Sarah Amundrud 01Aug2023 at <https://stackoverflow.com/questions/67006008/pandas-how-to-get-the-value-counts-above-a-threshold>.
+Amundrud, S. (2023, August 1). Code for identifying value counts greater than a threshold. Stack Overflow. https://stackoverflow.com/questions/67006008/pandas-how-to-get-the-value-counts-above-a-threshold
+
+OpenAI. (2021). "Export neural network model to HDF5 file." ChatGPT. https://www.openai.com
